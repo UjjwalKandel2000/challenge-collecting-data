@@ -40,7 +40,7 @@ While saving the datasets, we used python libraries ;
 
 ## Collaborators
 
-Design and construction phase of the project was made by 4 collaborators.([Ujjwal Kandel](https://github.com/UjjwalKandel2000), [Reena Koshta](https://github.com/reenakoshta10), [Nichelle Pinto Machado](https://github.com/N1chelle),  [Yusuf Akcakaya](https://github.com/yusufakcakaya))
+Design and construction phase of the project was made by 4 collaborators.([Ujjwal Kandel](https://github.com/UjjwalK00), [Reena Koshta](https://github.com/reenakoshta10), [Nichelle Pinto Machado](https://github.com/N1chelle),  [Yusuf Akcakaya](https://github.com/yusufakcakaya))
 
 
 ## Installation
